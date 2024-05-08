@@ -1,11 +1,14 @@
-	Introduction:
+Introduction:
 In this C++ code implements a simple console-based online quiz game. The game involves questions, a quiz container, and a player who answers questions to receive a final score. The code is structured using classes to represent different entities in the game: Question, Quiz, and Player.
 
-	Classes:
+Classes:
+
 Question Class:
-	The Question class represents an individual quiz question.
-	Properties include the question text, a list of answer options, and the index of the correct option.
-	It has a method isCorrect to check if a given option is correct.
+The Question class represents an individual quiz question.
+
+Properties include the question text, a list of answer options, and the index of the correct option.
+
+It has a method isCorrect to check if a given option is correct.
 
 Quiz Class:
 	The Quiz class manages a collection of questions.
