@@ -4,11 +4,10 @@ In this C++ code implements a simple console-based online quiz game. The game in
 Classes:
 
 Question Class:
-The Question class represents an individual quiz question.
 
-Properties include the question text, a list of answer options, and the index of the correct option.
-
-It has a method isCorrect to check if a given option is correct.
+1. The Question class represents an individual quiz question.
+2. Properties include the question text, a list of answer options, and the index of the correct option.
+3. It has a method isCorrect to check if a given option is correct.
 
 Quiz Class:
 	The Quiz class manages a collection of questions.
